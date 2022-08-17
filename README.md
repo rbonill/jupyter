@@ -1,2 +1,2 @@
 # jupyter
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fenago/jupyter/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rbonill/jupyter/HEAD)
